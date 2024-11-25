@@ -40,7 +40,7 @@
         </div>
       </section>
 
-      <section class="section-60 section-md-top-90 section-md-bottom-50">
+      <section class="section-60 section-md-top-60 section-md-bottom-50">
         <div class="container">
           <div class="row row-50 justify-content-lg-between">
             <div class="col-lg-5 col-xl-4">
@@ -84,12 +84,12 @@
                   <div class="col-md-6">
                     <div class="form-wrap">
                       <input class="form-input" id="contact-email" type="email" name="email" data-constraints="@Email @Required">
-                      <label class="form-label" for="contact-email">Email</label>
+                      <label class="form-label" for="contact-email">E-mail</label>
                     </div>
                   </div>
                   <div class="col-sm-12">
                     <div class="form-wrap">
-                      <div class="textarea-lined-wrap">
+                      <div class="textarea">
                         <textarea class="form-input" id="contact-message" name="message" data-constraints="@Required"></textarea>
                         <label class="form-label" for="contact-message">Message</label>
                       </div>
@@ -97,10 +97,10 @@
                   </div>
                   <div class="col-12">
                     <div class="row row-30 row-sm-0">
-                      <div class="col-sm-8">
+                      <div class="col-sm-6">
                         <button class="button button-primary button-block" type="submit">Send</button>
                       </div>
-                      <div class="col-sm-4">
+                      <div class="col-sm-6">
                         <button class="button button-silver-outline button-block" type="reset">Reset</button>
                       </div>
                     </div>

@@ -51,18 +51,18 @@
               
               <div class="rd-navbar-group">
                 <div class="rd-navbar-panel">
-                  <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button><a class="rd-navbar-brand brand" href="index.html"><h4 translate="no">JurisNova</h4></a>
+                  <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button><a class="rd-navbar-brand brand" href="index.php"><h4 translate="no">JurisNova</h4></a>
                 </div>
                 <div class="rd-navbar-nav-wrap">
                   <div class="rd-navbar-nav-inner">
-                    <div class="rd-navbar-btn-wrap"><a class="button button-smaller button-primary-outline" href="#">Appointment</a></div>
+                    <div class="rd-navbar-btn-wrap"><a class="button button-smaller button-primary-outline" href="#contact">Appointment</a></div>
                     <ul class="rd-navbar-nav">
-                      <li class="active"><a href="index.html">Home</a>
+                      <li class="active"><a href="index.php">Home</a>
                       </li>
                       <li><a href="#about">About Us</a>
                       </li>
                       </li>
-                      <li><a href="contact-us.html">Contacts</a>
+                      <li><a href="contact-us.php">Contacts</a>
                       </li>
                     </ul>
                   </div>
@@ -254,7 +254,7 @@
                   </figure>
                   <div class="thumbnail-inner">
                     <!-- <div class="link-group"><span class="novi-icon icon icon-xxs icon-primary material-icons-local_phone"></span></div> -->
-                    <div class="link-group"><span class="novi-icon icon icon-xxs icon-primary fa-envelope-o"></span><a class="link-white" href="mailto:#">info@jurisnova.org</a></div>
+                    <div class="link-group"><span class="novi-icon icon icon-xxs icon-primary fa-envelope-o"></span><a class="link-white" href="mailto:info@jurisnova.org">info@jurisnova.org</a></div>
                   </div>
                   <div class="thumbnail-caption">
                     <p class="text-header"><a href="#">Vanessa Ives</a></p>
@@ -269,7 +269,7 @@
                 <div class="block-number">06</div>
                 <h3 class="text-normal">Experts</h3>
                 <p class="h5 h5-smaller text-style-4">in Their Fields</p>
-                <p>If you or your business is facing a legal challenge, contact us today to arrange a free initial consultation with an attorney.</p><a class="link link-group link-group-animated link-bold link-secondary" href="about-us.html"><span>Read more</span><span class="novi-icon icon icon-xxs icon-primary fa fa-angle-right"></span></a>
+                <p>If you or your business is facing a legal challenge, contact us today to arrange a free initial consultation with an attorney.</p><a class="link link-group link-group-animated link-bold link-secondary" href="about-us.php"><span>Read more</span><span class="novi-icon icon icon-xxs icon-primary fa fa-angle-right"></span></a>
               </div>
             </div>
           </div>
